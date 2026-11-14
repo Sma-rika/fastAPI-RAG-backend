@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+test_booking_extraction.py
+sample.txt
+test_generation.py
+test_retrieval.py
